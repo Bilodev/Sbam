@@ -1,0 +1,19 @@
+import sbam!
+
+for a in 0..20{
+	for b in a..20{
+		println!(a)
+	}
+}
+
+let c : string = 'dasdas' + 'dadas'
+
+c += 'mearda'
+
+let b: integer = 432
+
+let kebab-case : boolean = false
+
+while kebab-case + 1{
+	b+=1
+}

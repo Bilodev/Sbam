@@ -1,0 +1,9 @@
+import sbam!
+
+
+	let a : integer = 0
+	let b : float = 0.32
+
+	if a == b {
+		println!('cock')
+	}

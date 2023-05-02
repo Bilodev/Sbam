@@ -1,0 +1,2 @@
+- Functions, built-in and custom (check types and calls) (optional)
+- array (opzionale)
